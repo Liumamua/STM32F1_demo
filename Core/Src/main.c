@@ -158,6 +158,7 @@ int main(void)
 
 void KeyMap(void){
     //There is nothing for this code project.
+    //This function is only for test the github.
 }
 void SystemClock_Config(void)
 {
