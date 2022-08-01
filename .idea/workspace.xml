@@ -17,8 +17,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="459f4e10-dae9-4736-9678-ef5bfc2a3522" name="变更" comment="">
-      <changelist_data name="liumama" email="" />
+    <list default="true" id="459f4e10-dae9-4736-9678-ef5bfc2a3522" name="变更" comment="only for test github">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
     "cidr.known.project.marker": "true",
     "last_opened_file_path": "D:/Embedded System/STM32F1_demo",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "project.propVCSSupport.Issue.Navigation"
   }
 }]]></component>
   <component name="RunManager" selected="CMake 应用程序.STM32F1_demo.elf">
@@ -100,8 +100,16 @@
       <workItem from="1659320098273" duration="68000" />
       <workItem from="1659320176345" duration="2515000" />
       <workItem from="1659324648612" duration="3719000" />
-      <workItem from="1659328401405" duration="529000" />
+      <workItem from="1659328401405" duration="835000" />
     </task>
+    <task id="LOCAL-00001" summary="only for test github">
+      <created>1659329145584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659329145584</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +130,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="only for test github" />
+    <option name="LAST_COMMIT_MESSAGE" value="only for test github" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
